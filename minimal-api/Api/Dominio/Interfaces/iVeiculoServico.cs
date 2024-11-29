@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using minimal_api.Dominio.Entidades;
+using MinimalApi.Dominio.Entidades;
 
-namespace minimal_api.Dominio.Interfaces
+namespace MinimalApi.Dominio.Interfaces
 {
     public interface iVeiculoServico
     {

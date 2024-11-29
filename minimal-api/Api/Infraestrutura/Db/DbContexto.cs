@@ -4,7 +4,6 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using minimal_api.Dominio.Entidades;
 using MinimalApi.Dominio.Entidades;
 
 namespace MinimalApi.Infraestrutura.Db
